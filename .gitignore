@@ -11,3 +11,6 @@ __pycache__/
 # Virtual environments (if applicable)
 venv/
 env/
+
+.idea
+
